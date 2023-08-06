@@ -1,3 +1,7 @@
+# Project description
+
+Simple React project, using (useState and useEffect) to do a list or users an a search box. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
